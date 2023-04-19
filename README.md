@@ -2,8 +2,7 @@
 
 
 
-- 🔭 currently working on Software Development Course @ CodeClan
-- 🌱 currently learning Python
+- 🔭 currently teaching Software Development Course @ CodeClan
 - 😄 Pronouns: She / Her
 
 
